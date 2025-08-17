@@ -2,3 +2,4 @@ firs commit
 second line from remote in testfile
 third line from remote repo
 forth line from new branch test branch
+fifth line from new branch 2nd way
